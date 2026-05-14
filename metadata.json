@@ -1,0 +1,5 @@
+{
+  "name": "공문서 도우미 (Official Doc Helper)",
+  "description": "어려운 공문서를 공공기관 표준 어투로 변환하고 작성 기준을 안내해주는 도우미 앱입니다.",
+  "requestFramePermissions": []
+}
